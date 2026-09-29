@@ -5,7 +5,7 @@
 ## Usage
 
 ```python
-( + )- combines two or more values (addends) to find a total or sum.
+( + ) - combines two or more values (addends) to find a total or sum.
 ( - ) - finds the difference between a minuend and a subtrahend, showing what remains.
 ( * ) - repeats addition a specific number of times to find a product.
 ( / ) - splits a value (dividend) into equal parts using a divisor to find a quotient.
